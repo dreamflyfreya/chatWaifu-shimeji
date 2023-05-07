@@ -370,8 +370,8 @@ monotonic_align/core.c
 *.dll
 
 # data
-/config.json
-/*.pth
+config.json
+
 *.wav
 /monotonic_align/monotonic_align
 /resources
